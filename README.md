@@ -8,9 +8,7 @@ Data scraped from a structured HTML table on the Wikipedia page using BeautifulS
 
 
 ### 3. Tools & Libraries  
-- BeautifulSoup: for HTML parsing and web scraping  
-- Pandas: for data structuring and querying  
-- tqdm, warnings, requests, urllib: for utilities and stability  
+- Libraries: `BeautifulSoup`, `pandas`, `tqdm`, `requests`, `urllib`, `warnings`  
 
-### 4. Results  
+### 4. Procedure and Results  
 Please view the complete [notebook](Oscar_Best_Actress_Awards_Web_Scraper.ipynb) for results and details.
