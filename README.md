@@ -1,4 +1,4 @@
-## Oscar Best Actress Awards Analysis
+## Oscar Best Actress Awards Web Scrapper
 
 ### 1. Goal  
 To scrape and analyse Academy Award Best Actress nomination and win, allowing users to query performance history for a specific actress and requested period.
